@@ -1,0 +1,8 @@
+build*/
+**/build*/
+
+old/
+videos/
+
+.DS_Store
+notes.txt
